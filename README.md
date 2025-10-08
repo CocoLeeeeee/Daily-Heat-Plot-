@@ -1,3 +1,3 @@
-# Daily-Heat-Plot-
+# Daily-Class-work
 This is a presentation for class called "The start of Corpus Linguistics learning"
 Maybe will find some more and add in this file. Just wait... :)
